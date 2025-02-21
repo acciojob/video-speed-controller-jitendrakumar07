@@ -5,7 +5,7 @@
       margin: 20px auto;
       border: 1px solid #ccc;
     }
-    .viewer {
+    .player__video {
       width: 100%;
       display: block;
     }
@@ -41,3 +41,4 @@
       background: #ffc600;
       height: 100%;
       flex-basis: 0%;
+    }
